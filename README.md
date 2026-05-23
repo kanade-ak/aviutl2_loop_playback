@@ -1,0 +1,2 @@
+# aviutl2_loop_playback
+AviUtl2にループ再生を追加します
